@@ -1,6 +1,6 @@
 # Calculadora Básica (Kotlin)
 
-Calculadora é um projeto desenvolvido em kotlin para Android com o objetivo de aprendizado. Nele foram trabalhados os conceitos de classes , methodos estáticos - através do uso do conceito de companion, tratamento de eveventos e expressões regulares 
+Calculadora é um projeto desenvolvido em kotlin para Android com o objetivo de aprendizado. Nele foram trabalhados os conceitos de classes , métodos estáticos - através do uso do conceito de companion, tratamento de eventos e expressões regulares 
 
 
 ## Instalação
