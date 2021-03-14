@@ -1,0 +1,1 @@
+ How can I get all the events of the buttons on a screen on android in a single method using the kotlin?
