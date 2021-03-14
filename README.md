@@ -18,8 +18,7 @@ Realize o clone através do Android Studio
 
 Basicamente o aplicativo contém a interface de um aplicativo de calculadora. A interface é muito simples. Fiquem a vontade para melhora-la
 
-![CalculadoraAndroid](https://user-images.githubusercontent.com/10618397/111061835-033fe280-8484-11eb-8248-976bf6b4d577.JPG)
-
+![CalculadoraAndroid](https://user-images.githubusercontent.com/10618397/111066270-d9df8080-849c-11eb-91cb-f5eac19dcc6b.JPG)
 
 ## Contribuição
 Se quiserem contribuir fiquem a vontade
